@@ -6,18 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <img src="https://sensible-design.s3-us-west-1.amazonaws.com/image-assets/logos/sensible-design/sd-long-logo.svg" className='company-logo' />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Site Under Maintenance. Check back soon!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
